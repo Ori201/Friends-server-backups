@@ -1,2 +1,2 @@
-# Friends-server-backups
+# Friends server backups
 שרת החברים גיבויים
