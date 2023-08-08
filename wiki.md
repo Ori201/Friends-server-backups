@@ -4,4 +4,4 @@
 [גיבוי 26.7.2023](https://github.com/Ori201/Friends-server-backups/releases/tag/26.7.2023) 
 
 # כדי להפוך למנהל בגיבויים צריך לשנות את הקובץ LEVEL בתוך הקבצים של העולם ולכתוב את הקוד הבא:
-[‏‏WinRAR ZIP archive חדש.zip](https://github.com/Ori201/Friends-server-backups/files/12294381/WinRAR.ZIP.archive.zip)
+[לחץ כדי להוריד את הקבצים להעברה](https://github.com/Ori201/Friends-server-backups/files/12294381/WinRAR.ZIP.archive.zip)
