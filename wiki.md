@@ -1,4 +1,5 @@
 # שרת החברים גיבויים WIKI BETA
 כדי להפוך למנהל בגיבויים צריך לשים את הקבצים לתקיית העולם (הגיבוי) ולמחוק את level.bat_old (עם יש).
 # קבצים להורדה
-[גיבוי עולם רגיל 26.1.2023 מנהל](https://github.com/Ori201/Friends-server-backups/files/12294679/OP.26.1.2023.world.zip)
+[גיבוי עולם רגיל 26.1.2023 מנהל](https://github.com/Ori201/Friends-server-backups/files/12294692/OP.26.1.2023.world.zip)
+
