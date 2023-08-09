@@ -5,7 +5,7 @@
 
 כדי להפוך למנהל בגיבויים צריך לשים את הקבצים לתקיית העולם (הגיבוי) ולמחוק את level.bat_old (עם יש).
 ## להורדה
-[גיבוי עולם רגיל 26.1.2023 kit Developer](https://github.com/Ori201/Friends-server-backups/files/12294743/OP.26.1.2023.world.zip)
+[גיבוי עולם רגיל 26.1.2023 kit Developer](https://github.com/Ori201/Friends-server-backups/files/12294743/OP.26.1.2023.world.zip) (מומלץ לשחק בגירסה 1.20.1)
 
 ## אזהרות
 1. פעולה זו תמחק את החפצים שבתיק (e)
