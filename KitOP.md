@@ -16,4 +16,4 @@
 ## קישורים נוספים
 [כל הגיבויים](https://github.com/Ori201/Friends-server-backups/releases)
 
-[OP.26.1.2023.world.zip](https://github.com/Ori201/Friends-server-backups/files/12298896/OP.26.1.2023.world.zip)
+
