@@ -98,7 +98,7 @@
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/d702b4ae-2279-42d6-a283-1856ab2b0465)
 
-אמור להיות פה תיקייה בשם mods (אם אין תיקייה בשם mods אז לחץ כאן), אם יש תפתח.י את התיקייה.      
+אמור להיות פה תיקייה בשם mods (אם אין תיקייה בשם mods אז [לחץ כאן](https://github.com/Ori201/Friends-server-backups/blob/main/FrModsEXE.md#%D7%9E%D7%A6%D7%99%D7%90%D7%AA-%D7%9E%D7%99%D7%A7%D7%95%D7%9D-%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%94%D7%9E%D7%95%D7%93%D7%99%D7%9D)), אם יש תפתח.י את התיקייה.      
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/aaa87c9d-63ce-4bfc-be8d-01da25d37990)
 
@@ -114,3 +114,6 @@
 
 
 ## התקנת Forge
+פורג' הוא מפעיל מודים למיינקראפט וכדי שתקיית המודים תיהייה קיימת צריך פורג'.
+לכל גרסת התקנה שהתקנתם אז גירסת הפורג' שונה!
+
