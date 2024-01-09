@@ -94,5 +94,9 @@
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/ecfa7a88-bef2-4a95-9cca-604798e022d4)
 
+אמור להיות פה תיקייה בשם .minecraft, תפתח.י את התיקייה.    
+
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/d702b4ae-2279-42d6-a283-1856ab2b0465)
+
 
 
