@@ -7,7 +7,12 @@
 
 [09.01.2024 לחץ כאן להורדה](https://github.com/Ori201/Friends-Server-ModList/releases/download/modss/Setup.Friends.server.Mods.exe)
 
-עכשיו אחרי הורדת הקובץ פתח.י את הקובץ EXE ו
+עכשיו אחרי הורדת הקובץ פתח.י את הקובץ EXE ותלחצ.י על "כן"
+לאחר זה יופיע החלו הזה:
+
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/0c186f05-5d01-4466-a9ca-cfacc20ec27d)
+
+
 
 בחרו את השפה שלכם
 
