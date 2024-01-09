@@ -83,5 +83,8 @@
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/4852b981-6af5-4067-beb5-151fe01a2f00)
 
+בתוך תיבת החיפוש תכתוב.י את המילה: %appdata%     
+
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/8dd3c3df-a168-4792-9eb1-cfe1f16d5574)
 
 
