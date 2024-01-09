@@ -103,3 +103,12 @@
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/aaa87c9d-63ce-4bfc-be8d-01da25d37990)
 
 
+לאחר פתיחת התיקייה יש ללחוץ על הפס למעלה שמסומן בתמונה בצבע אדום וללחוץ במקלדת Ctrl + A ואחרי זה Ctrl + C.    
+
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/c983fc3f-bb49-4dea-b404-c94a0c4ac7a2)
+
+וזהו רק מה שנשאר זה ללחוץ Ctrl + V בשורה המסומנת בתמונה בצבע האדום:      
+
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/305567a3-4d13-4c9c-a5c9-38cc1eb111d9)
+
+
