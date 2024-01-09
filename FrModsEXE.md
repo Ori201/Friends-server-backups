@@ -5,7 +5,7 @@
 על מנת להשתמש בקובץ צריך את הקובץ.
 כדי להוריד את הקובץ צריך קודם כל לבחור את התאריך שאת.ה רוצה:  
 
-[09.01.2024 לחץ כאן להורדה](https://github.com/Ori201/Friends-Server-ModList/releases/download/modss/Setup.Friends.server.Mods.exe)
+[09.01.2024 לחץ כאן להורדה](https://github.com/Ori201/Friends-Server-ModList/releases/download/modss/Setup.Friends.server.Mods.exe) | תומך ב Forge 1.20.1 - 47.2.19
 
 עכשיו אחרי הורדת הקובץ פתח.י את הקובץ EXE ותלחצ.י על "כן"  
 לאחר זה יופיע החלון הזה:  
@@ -115,6 +115,21 @@
 
 ## התקנת Forge
 פורג' הוא מפעיל מודים למיינקראפט וכדי שתקיית המודים תיהייה קיימת צריך פורג'.   
-לכל גרסת התקנה שהתקנתם אז גירסת הפורג' שונה!    
+לכל גרסת התקנה שהתקנתם, גירסת הפורג' שונה!    
      
-[לחץ כאן Forge 1.20.1 - 47.2.19 - התקנה 9.1.2024](https://github.com/Ori201/Friends-server-backups/releases/download/forge/forge-1.20.1-47.2.19-installer.jar)
+[לחץ כאן Forge 1.20.1 - 47.2.19 - התקנה 9.1.2024](https://github.com/Ori201/Friends-server-backups/releases/download/forge/forge-1.20.1-47.2.19-installer.jar)    
+
+לאחר הורדת גירסת ה Forge המתאימה יש לפתוח את הקובץ JAR.     
+
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/719448fe-bec8-42e7-9ad5-d5571613e6a2)
+
+לחצ.י על "OK"    
+
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/02412e17-71fe-4e85-b091-8294d8c319ca)
+
+בסיום ההורדה אמור להופיע חלון קופץ כזה:     
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/42cf4245-8277-41ba-a0d0-37161338af26)
+
+אם ראיתם כזה חלון זה אומר ש Forge מותקן בהצלחה!
+
+
