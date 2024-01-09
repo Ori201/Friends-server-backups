@@ -5,7 +5,7 @@
 על מנת להשתמש בקובץ צריך את הקובץ.
 כדי להוריד את הקובץ צריך קודם כל לבחור את התאריך שאת.ה רוצה:  
 
-[09.01.2024 לחץ כאן להורדה](https://github.com/Ori201/Friends-Server-ModList/releases/download/modss/Setup.Friends.server.Mods.exe) | תומך ב Forge 1.20.1 - 47.2.19
+[09.01.2024 לחץ כאן להורדה](https://github.com/Ori201/Friends-Server-ModList/releases/download/modss/Setup.Friends.server.Mods.exe) | חייב Forge 1.20.1 - 47.2.19, [לחץ כאן להורדה](https://github.com/Ori201/Friends-server-backups/blob/main/FrModsEXE.md#%D7%94%D7%AA%D7%A7%D7%A0%D7%AA-forge) 
 
 עכשיו אחרי הורדת הקובץ פתח.י את הקובץ EXE ותלחצ.י על "כן"  
 לאחר זה יופיע החלון הזה:  
@@ -56,7 +56,7 @@
 
 יש ללחוץ על "סיום"
 
-זהו! סיימתם להוריד את כל המודים בהצלחה | עכשיו מה שנשראר זה רק לסגור את המיינקראפט (אם המיינקראפט פתוח) ולפתוח אותו!       
+זהו! סיימתם להוריד את כל המודים בהצלחה | עכשיו מה שנשראר זה רק לסגור את המיינקראפט (אם המיינקראפט פתוח) ולפתוח אותו! (Forge)      
 
 ## בעיית "קובץ חשוד"
 
