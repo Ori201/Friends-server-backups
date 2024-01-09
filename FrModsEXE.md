@@ -98,5 +98,8 @@
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/d702b4ae-2279-42d6-a283-1856ab2b0465)
 
+אמור להיות פה תיקייה בשם mods (אם אין תיקייה בשם mods אז לחץ כאן), אם יש תפתח.י את התיקייה.      
+
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/aaa87c9d-63ce-4bfc-be8d-01da25d37990)
 
 
