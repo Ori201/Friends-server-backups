@@ -78,3 +78,10 @@
 תלחצ.י על Win + R:    
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/40cd4c00-6417-41df-a082-d06b05f501c1)
+
+שפותח את החלון הבא:   
+
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/4852b981-6af5-4067-beb5-151fe01a2f00)
+
+
+
