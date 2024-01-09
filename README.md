@@ -6,5 +6,5 @@
 [לחץ כאן כדי לראות עוד](https://github.com/Ori201/Friends-server-backups/blob/main/KitOP.md)
 ## רשימת / הורדת מודים לשרת
 [לחץ כדי לעבור לדף המודים של השרת](https://github.com/Ori201/Friends-Server-ModList)
-## עזרה בקובץ ההורדה של המודים
+## קובץ הורדה של המודים
 [לחץ כדי כדי לראות עוד](https://github.com/Ori201/Friends-server-backups/blob/main/FrModsEXE.md)
