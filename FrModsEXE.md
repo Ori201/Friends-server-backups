@@ -15,21 +15,21 @@
 
 
 בחרו את השפה שלכם (יש: אנגלית, עברית ורוסית. במקרה שלי בחרתי עברית)  
-בסיום לחצ.י על "אישר" 
+בסיום תלחצ.י על "אישר" 
 
 בחלון הבא יש להקליד את הסיסמה, החלון נראה כך:  
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/a3e89820-af55-45b8-9e9a-85a24722404d)
 
 הסיסמה: Fr Mods  
-בסיום לחצ.י על "הבא"
+בסיום תלחצ.י על "הבא"
 
 בחלון הבא יש לבחור את מיקום תיקיית המודים (להסבר המלאה למציאת המיקום, [יש ללחוץ כאן](https://github.com/Ori201/Friends-server-backups/blob/main/FrModsEXE.md#%D7%9E%D7%A6%D7%99%D7%90%D7%AA-%D7%9E%D7%99%D7%A7%D7%95%D7%9D-%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%94%D7%9E%D7%95%D7%93%D7%99%D7%9D)), החלון נראה כך:    
 (רק בפעם הראשונה של ההתקנה)    
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/2582de8c-30a9-4c56-9b29-fc255080f8df)
 
-בסיום לחצ.י על "הבא"  
+בסיום תלחצ.י על "הבא"  
 
 אחרי לחיצה על הכפתור "הבא" אמור לקפוץ החלון הבא:   
 (רק בפעם הראשונה של ההתקנה)     
@@ -115,6 +115,7 @@
 
 ## התקנת Forge
 פורג' הוא מפעיל מודים למיינקראפט וכדי שתקיית המודים תיהייה קיימת צריך פורג'.   
+  
 לכל גרסת התקנה שהתקנתם, גירסת הפורג' שונה!    
      
 [לחץ כאן Forge 1.20.1 - 47.2.19 - התקנה 9.1.2024](https://github.com/Ori201/Friends-server-backups/releases/download/forge/forge-1.20.1-47.2.19-installer.jar)    
@@ -123,7 +124,7 @@
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/719448fe-bec8-42e7-9ad5-d5571613e6a2)
 
-לחצ.י על "OK"    
+תלחצ.י על "OK"    
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/02412e17-71fe-4e85-b091-8294d8c319ca)
 
