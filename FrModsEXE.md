@@ -89,4 +89,6 @@
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/8dd3c3df-a168-4792-9eb1-cfe1f16d5574)
 
+לאחר הכתיבה לחצ.י על "אישור"
+
 
