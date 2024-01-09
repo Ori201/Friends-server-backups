@@ -18,4 +18,4 @@
 ## קישורים נוספים
 [כל הגיבויים](https://github.com/Ori201/Friends-server-backups/releases)     
     
-[מודים לשרת (גיבוי)](https://github.com/Ori201/Friends-server-backups/blob/main/FrModsEXE.md)
+[מודים לשרת (EXE)](https://github.com/Ori201/Friends-server-backups/blob/main/FrModsEXE.md)
