@@ -105,7 +105,8 @@
 
 לאחר פתיחת התיקייה יש ללחוץ על הפס למעלה שמסומן בתמונה בצבע אדום וללחוץ במקלדת Ctrl + A ואחרי זה Ctrl + C.    
 
-![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/c983fc3f-bb49-4dea-b404-c94a0c4ac7a2)
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/f230e75c-3143-4712-8cbd-0cd843b49ade)
+
 
 וזהו רק מה שנשאר זה ללחוץ Ctrl + V בשורה המסומנת בתמונה בצבע האדום:      
 
