@@ -6,3 +6,10 @@
 כדי להוריד את הקובץ צריך קודם כל לבחור את התאריך שאת.ה רוצה:  
 
 [09.01.2024 לחץ כאן להורדה](https://github.com/Ori201/Friends-Server-ModList/releases/download/modss/Setup.Friends.server.Mods.exe)
+
+עכשיו אחרי הורדת הקובץ פתח.י את הקובץ EXE ו
+
+בחרו את השפה שלכם
+
+במידה הקובץ חשוד יש ללחוץ על הקובץ בסמל ההורדות וללחוץ על "הורדת קובץ חשוד"
+פתח.י את הקובץ ותלחצ.י על "מידע נוסף" ועל "הפעל בכל מקרה" ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/dea01a42-85ec-4034-83a5-16c0db19d55e)
