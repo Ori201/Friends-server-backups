@@ -128,7 +128,8 @@
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/02412e17-71fe-4e85-b091-8294d8c319ca)
 
-בסיום ההורדה אמור להופיע חלון קופץ כזה:     
+בסיום ההורדה אמור להופיע חלון קופץ כזה:       
+
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/42cf4245-8277-41ba-a0d0-37161338af26)
 
 אם ראיתם כזה חלון זה אומר ש Forge מותקן בהצלחה!
