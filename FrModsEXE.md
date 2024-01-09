@@ -98,7 +98,7 @@
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/d702b4ae-2279-42d6-a283-1856ab2b0465)
 
-אמור להיות פה תיקייה בשם mods (אם אין תיקייה בשם mods אז [לחץ כאן](https://github.com/Ori201/Friends-server-backups/releases/download/forge/forge-1.20.1-47.2.19-installer.jar)), אם יש תפתח.י את התיקייה.      
+אמור להיות פה תיקייה בשם mods (אם אין תיקייה בשם mods אז [לחץ כאן](https://github.com/Ori201/Friends-server-backups/blob/main/FrModsEXE.md#%D7%94%D7%AA%D7%A7%D7%A0%D7%AA-forge)), אם יש תפתח.י את התיקייה.      
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/aaa87c9d-63ce-4bfc-be8d-01da25d37990)
 
