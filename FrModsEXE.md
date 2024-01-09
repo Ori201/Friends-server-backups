@@ -103,7 +103,7 @@
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/aaa87c9d-63ce-4bfc-be8d-01da25d37990)
 
 
-לאחר פתיחת התיקייה יש ללחוץ על הפס למעלה שמסומן בתמונה בצבע אדום וללחוץ במקלדת Ctrl + A ואחרי זה Ctrl + C.    
+לאחר פתיחת התיקייה יש ללחוץ על הפס למעלה שמסומן בתמונה בצבע אדום וללחוץ במקלדת Ctrl + A ואחרי זה Ctrl + C. (ללחוץ על הריק)      
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/f230e75c-3143-4712-8cbd-0cd843b49ade)
 
