@@ -28,7 +28,7 @@
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/2582de8c-30a9-4c56-9b29-fc255080f8df)
 
-
+בסיום לחצ.י על
 
 
 
