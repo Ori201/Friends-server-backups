@@ -21,7 +21,7 @@
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/a3e89820-af55-45b8-9e9a-85a24722404d)
 
-
+הסיסמה: Fr Mods
 
 
 
