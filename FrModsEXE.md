@@ -70,3 +70,11 @@
 
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/dea01a42-85ec-4034-83a5-16c0db19d55e)
+
+
+
+
+כדי למצוא איפה נמצא תיקיית המודים, דבר ראשון:    
+תלחצ.י על Win + R:    
+
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/40cd4c00-6417-41df-a082-d06b05f501c1)
