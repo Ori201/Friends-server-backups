@@ -16,5 +16,6 @@
 4. פעולה זו תשגר את השחקן לשער הכניסה של העיר הישנה / ליד פורטל (אם זה עולם שלא העיר)
 5. פעולה זו לא תשנה את העולם ואת הבניות בעולם
 ## קישורים נוספים
-[כל הגיבויים](https://github.com/Ori201/Friends-server-backups/releases)
+[כל הגיבויים](https://github.com/Ori201/Friends-server-backups/releases)     
+    
 [מודים לשרת (גיבוי)](https://github.com/Ori201/Friends-server-backups/blob/main/FrModsEXE.md)
