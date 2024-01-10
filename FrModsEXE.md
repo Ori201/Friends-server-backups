@@ -5,7 +5,7 @@
 על מנת להשתמש בקובץ צריך את הקובץ.
 כדי להוריד את הקובץ צריך קודם כל לבחור את התאריך שאת.ה רוצה:  
 
-[09.01.2024 לחץ כאן להורדה](https://github.com/Ori201/Friends-Server-ModList/releases/download/modss/Setup.Friends.server.Mods.exe) | חייב Forge 1.20.1 - 47.2.19
+[09.01.2024 לחץ כאן להורדה](https://github.com/Ori201/Friends-Server-ModList/releases/download/modss/Setup.Friends.server.Mods.exe) | חייב Forge 1.20.1 - 47.2.19. 
 
 עכשיו אחרי הורדת הקובץ פתח.י את הקובץ EXE ותלחצ.י על "כן"  
 לאחר זה יופיע החלון הזה:  
