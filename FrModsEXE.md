@@ -67,7 +67,7 @@
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/719448fe-bec8-42e7-9ad5-d5571613e6a2)
 
-אחרי לחיצת הכפתור החלון הבא מופיע:     
+אחרי לחיצת הכפתור החלון הבא יופיע:     
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/02412e17-71fe-4e85-b091-8294d8c319ca)
 
