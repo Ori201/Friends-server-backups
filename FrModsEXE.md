@@ -22,7 +22,15 @@
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/a3e89820-af55-45b8-9e9a-85a24722404d)
 
 הסיסמה: Fr Mods  
-בסיום תלחצ.י על "הבא"
+בסיום תלחצ.י על "הבא"     
+
+בחלון הבא יש לבטל את הפונקציה "צור קיצור דרך על שולחן העבודה":      
+
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/8fcbe553-02e1-4df0-a62f-7bd4705c35fa)
+
+
+
+
 
 בחלון הבא יש לבחור את מיקום תיקיית המודים (להסבר המלאה למציאת המיקום, [יש ללחוץ כאן](https://github.com/Ori201/Friends-server-backups/blob/main/FrModsEXE.md#%D7%9E%D7%A6%D7%99%D7%90%D7%AA-%D7%9E%D7%99%D7%A7%D7%95%D7%9D-%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%94%D7%9E%D7%95%D7%93%D7%99%D7%9D)), החלון נראה כך:    
 (רק בפעם הראשונה של ההתקנה)    
