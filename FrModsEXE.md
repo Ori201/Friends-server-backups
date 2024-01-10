@@ -7,7 +7,7 @@
 
 [09.01.2024 לחץ כאן להורדה](https://github.com/Ori201/Friends-Server-ModList/releases/download/modss/Setup.Friends.server.Mods.exe)
 
-עכשיו אחרי הורדת הקובץ פתח.י את הקובץ EXE ותלחצ.י על "כן"  (נתקלים בבעיה "קובץ חשוד? [לחץ כאן!](https://github.com/Ori201/Friends-server-backups/blob/main/FrModsEXE.md#%D7%91%D7%A2%D7%99%D7%99%D7%AA-%D7%A7%D7%95%D7%91%D7%A5-%D7%97%D7%A9%D7%95%D7%93))
+עכשיו אחרי הורדת הקובץ פתח.י את הקובץ EXE ותלחצ.י על "כן"  (נתקלים בבעיה "קובץ חשוד? [לחץ כאן!](https://github.com/Ori201/Friends-server-backups/blob/main/FrModsEXE.md#%D7%91%D7%A2%D7%99%D7%99%D7%AA-%D7%A7%D7%95%D7%91%D7%A5-%D7%97%D7%A9%D7%95%D7%93))    
 לאחר זה יופיע החלון הזה:  
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/0c186f05-5d01-4466-a9ca-cfacc20ec27d)
