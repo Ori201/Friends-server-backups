@@ -5,7 +5,7 @@
 על מנת להשתמש בקובץ צריך את הקובץ.
 כדי להוריד את הקובץ צריך קודם כל לבחור את התאריך שאת.ה רוצה:  
 
-[09.01.2024 לחץ כאן להורדה](https://github.com/Ori201/Friends-Server-ModList/releases/download/modss/Setup.Friends.server.Mods.exe) | חייב Forge 1.20.1 - 47.2.19. 
+[09.01.2024 לחץ כאן להורדה](https://github.com/Ori201/Friends-Server-ModList/releases/download/modss/Setup.Friends.server.Mods.exe)
 
 עכשיו אחרי הורדת הקובץ פתח.י את הקובץ EXE ותלחצ.י על "כן"  
 לאחר זה יופיע החלון הזה:  
@@ -24,14 +24,6 @@
 הסיסמה: Fr Mods  
 בסיום תלחצ.י על "הבא"     
 
-בחלון הבא יש לבטל את הפונקציה "צור קיצור דרך על שולחן העבודה":      
-
-![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/8fcbe553-02e1-4df0-a62f-7bd4705c35fa)
-
-
-
-
-
 בחלון הבא יש לבחור את מיקום תיקיית המודים (להסבר המלאה למציאת המיקום, [יש ללחוץ כאן](https://github.com/Ori201/Friends-server-backups/blob/main/FrModsEXE.md#%D7%9E%D7%A6%D7%99%D7%90%D7%AA-%D7%9E%D7%99%D7%A7%D7%95%D7%9D-%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%94%D7%9E%D7%95%D7%93%D7%99%D7%9D)), החלון נראה כך:    
 (רק בפעם הראשונה של ההתקנה)    
 
@@ -45,7 +37,13 @@
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/927e5f20-c690-463c-be9c-f1d554a196c7)
 
 אם לא קופץ החלון, המיקום של התיקייה לא נכון!   
-אם כן קפץ החלון יש ללחוץ על "כן"   
+אם כן קפץ החלון יש ללחוץ על "כן"      
+
+בחלון הבא יש לבטל את הפונקציה "צור קיצור דרך על שולחן העבודה":      
+
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/8fcbe553-02e1-4df0-a62f-7bd4705c35fa)
+
+תלחצ.י על הכפתור "הבא"       
 
 בחלון הבא יש לוודא שמיקום תיקיית המודים נכון, כך נראה החלון:     
 (רק בפעם הראשונה של ההתקנה)    
@@ -60,11 +58,27 @@
 
 לאחר סיום ההתקנה יפתח החלון הבא:    
 
-![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/da9ffdbf-db4d-4bc5-91cc-85c556287639)
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/89d09efa-5dbc-4462-9cf6-a23572c50e01)
 
-יש ללחוץ על "סיום"
 
-זהו! סיימתם להוריד את כל המודים בהצלחה | עכשיו מה שנשראר זה רק לסגור את המיינקראפט (אם המיינקראפט פתוח) ולפתוח אותו! (Forge)      
+יש לסמן את הפונקצייה "הפעל שרת החברים מודים":      
+
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/6ee40710-b1eb-4009-bedb-53707532e74b)
+
+
+עכשיו יש ללחוץ על "סיום"
+
+בחלון הבא שנפתח יש ללחוץ על "OK"        
+
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/02412e17-71fe-4e85-b091-8294d8c319ca)
+
+בסיום ההורדה אמור להופיע חלון קופץ כזה:       
+
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/42cf4245-8277-41ba-a0d0-37161338af26)
+
+אם ראיתם כזה חלון זה אומר ש Forge מותקן בהצלחה!     
+
+זהו! סיימתם להוריד את כל המודים בהצלחה + פורג' 1.20.1 | עכשיו מה שנשראר זה רק לסגור את המיינקראפט (אם המיינקראפט פתוח) ולפתוח אותו! (1.20.1 Forge)      
 
 ## בעיית "קובץ חשוד"
 
@@ -121,7 +135,7 @@
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/305567a3-4d13-4c9c-a5c9-38cc1eb111d9)
 
 
-## התקנת Forge
+## התקנת Forge (הסבר רגיל)
 פורג' הוא מפעיל מודים למיינקראפט וכדי שתקיית המודים תיהייה קיימת צריך פורג'.   
   
 לכל גרסת התקנה שהתקנתם, גירסת הפורג' שונה!    
