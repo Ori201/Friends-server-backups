@@ -61,11 +61,7 @@
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/89d09efa-5dbc-4462-9cf6-a23572c50e01)
 
 
-יש לסמן את הפונקצייה "הפעל שרת החברים מודים":      
-
-![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/6ee40710-b1eb-4009-bedb-53707532e74b)
-
-
+יש לסמן את הפונקצייה "הפעל שרת החברים מודים"    
 עכשיו יש ללחוץ על "סיום"
 
 בחלון הבא שנפתח יש ללחוץ על "OK"        
