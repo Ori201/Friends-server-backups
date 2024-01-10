@@ -119,9 +119,9 @@
 
 ![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/d702b4ae-2279-42d6-a283-1856ab2b0465)
 
-אמור להיות פה תיקייה בשם mods (אם אין תיקייה בשם mods אז [לחץ כאן](https://github.com/Ori201/Friends-server-backups/blob/main/FrModsEXE.md#%D7%94%D7%AA%D7%A7%D7%A0%D7%AA-forge)), אם יש תפתח.י את התיקייה.      
+אמור להיות פה תיקייה בשם mods (אם אין תיקייה בשם mods אז [לחץ כאן](https://github.com/Ori201/Friends-server-backups/blob/main/FrModsEXE.md#%D7%94%D7%AA%D7%A7%D7%A0%D7%AA-forge)), אם יש תפתח.י את התיקייה.  4! לשנות 
 
-![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/aaa87c9d-63ce-4bfc-be8d-01da25d37990)
+![image](https://github.com/Ori201/Friends-server-backups/assets/117851884/aaa87c9d-63ce-4bfc-be8d-01da25d37990) 4! לשנות
 
 
 לאחר פתיחת התיקייה יש ללחוץ על הפס למעלה שמסומן בתמונה בצבע אדום וללחוץ במקלדת Ctrl + A ואחרי זה Ctrl + C. (ללחוץ על הריק)      
